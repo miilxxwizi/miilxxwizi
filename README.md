@@ -32,6 +32,18 @@ Email:    nurm.qp47@gmail.com"
 </tr>
 </table>
 
+<h3><samp>About me</samp></h3>
+
+<p><samp>I'm a student learning Python and JavaScript. I like having a project to try things out on while I learn.</samp></p>
+
+<p><samp>Right now I'm working on OmniArchive and dangerous assault. I switch between the two depending on what I feel like building.</samp></p>
+
+<p><samp>When I'm away from the editor, I'm usually listening to music or playing games. If you want to talk projects or games, you can reach me on Telegram.</samp></p>
+
+![Daily GitHub contributions this month, with monthly totals and active days](assets/activity.svg)
+
 <p align="center">
+  <a href="https://t.me/miilxxwizizzzz"><kbd>Telegram ↗</kbd></a>
+  <a href="https://discord.com/"><kbd>Discord ↗</kbd></a>
   <a href="https://github.com/miilxxwizi?tab=repositories">Explore my repositories →</a>
 </p>
