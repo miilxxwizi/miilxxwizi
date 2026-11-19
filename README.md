@@ -40,8 +40,6 @@ Email:    nurm.qp47@gmail.com"
 
 <p><samp>When I'm away from the editor, I'm usually listening to music or playing games. If you want to talk projects or games, you can reach me on Telegram.</samp></p>
 
-![Daily GitHub contributions this month, with monthly totals and active days](assets/activity.svg)
-
 <p align="center">
   <a href="https://t.me/miilxxwizizzzz"><kbd>Telegram ↗</kbd></a>
   <a href="https://discord.com/users/917454922734248006"><kbd>Discord ↗</kbd></a>
