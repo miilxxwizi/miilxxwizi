@@ -4,12 +4,7 @@
 </tr>
 <tr>
 <td align="center" valign="middle" width="420">
-<a href="assets/ascii-transparent.gif?raw=1">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/ascii-transparent.gif" />
-  <img src="assets/ascii-transparent-light.gif" width="400" alt="Animated ASCII characters on a transparent background" />
-</picture>
-</a>
+<a href="assets/ascii-transparent.gif?raw=1"><img src="assets/ascii-transparent.gif?v=5883b4" width="400" alt="Animated ASCII characters on a transparent background" /></a>
 </td>
 <td valign="top" width="420">
 <!-- Edit the text below directly. No GIF regeneration is needed. -->
