@@ -44,6 +44,6 @@ Email:    nurm.qp47@gmail.com"
 
 <p align="center">
   <a href="https://t.me/miilxxwizizzzz"><kbd>Telegram ↗</kbd></a>
-  <a href="https://discord.com/"><kbd>Discord ↗</kbd></a>
+  <a href="https://discord.com/users/917454922734248006"><kbd>Discord ↗</kbd></a>
   <a href="https://github.com/miilxxwizi?tab=repositories">Explore my repositories →</a>
 </p>
