@@ -9,23 +9,16 @@
 <td valign="top" width="420">
 <!-- Edit the text below directly. No GIF regeneration is needed. -->
 
-```bash
-"miilxxwizi@github
-------------------------------------
-Role:     Developer / Student
-Learning: Python / JS
-OS:       Windows
-Shell:    PowerShell
-Editor:   VS Code
-Building: OmniArchive / dangerous assault
-Hobbies:  sleeping, music, gaming
-Goal:     Learn something every day
+```text
+Role      Developer / Student
+Learning  Python / JavaScript
+Projects  OmniArchive, dangerous assault
+Setup     Windows / VS Code
+Interests Music, gaming, sleeping
+Goal      Learn something every day
 
-contacts
-------------------------------------
-GitHub:   github.com/miilxxwizi
-Telegram: @miilxxwizizzzz
-Email:    nurm.qp47@gmail.com"
+Telegram  @miilxxwizizzzz
+Email     nurm.qp47@gmail.com
 ```
 
 </td>
