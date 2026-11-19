@@ -10,15 +10,18 @@
 <!-- Edit the text below directly. No GIF regeneration is needed. -->
 
 ```text
-Role      Developer / Student
-Learning  Python / JavaScript
-Projects  OmniArchive, dangerous assault
-Setup     Windows / VS Code
-Interests Music, gaming, sleeping
-Goal      Learn something every day
+------------------------------------
+Role:      Developer / Student
+Learning:  Python / JavaScript
+Projects:  OmniArchive, dangerous assault
+Setup:     Windows / VS Code
+Interests: Music, gaming, sleeping
+Goal:      Learn something every day
 
-Telegram  @miilxxwizizzzz
-Email     nurm.qp47@gmail.com
+contacts
+------------------------------------
+Telegram: @miilxxwizizzzz
+Email:    nurm.qp47@gmail.com
 ```
 
 </td>
