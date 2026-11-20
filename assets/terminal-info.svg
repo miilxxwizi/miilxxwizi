@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="384" height="288" viewBox="0 0 384 288" role="img" aria-labelledby="title description">
+  <title id="title">Terminal information</title>
+  <desc id="description">miilxxwizi@github
+------------------------------------
+Role:     Developer / Student
+Learning: Python / JS
+OS:       Windows
+Shell:    PowerShell
+Editor:   VS Code
+Building: OmniArchive / dangerous assault
+Hobbies:  sleeping, music, gaming
+Goal:     Learn something every day
+
+contacts
+------------------------------------
+GitHub:   github.com/miilxxwizi
+Telegram: @miilxxwizizzzz
+Email:    nurm.qp47@gmail.com</desc>
+  <style>
+    text { font: 12px ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace; fill: #0a3069; white-space: pre }
+    @media (prefers-color-scheme: dark) { text { fill: #a5d6ff } }
+  </style>
+  <text x="16" y="22" xml:space="preserve">miilxxwizi@github</text>
+  <text x="16" y="39" xml:space="preserve">------------------------------------</text>
+  <text x="16" y="56" xml:space="preserve">Role:     Developer / Student</text>
+  <text x="16" y="73" xml:space="preserve">Learning: Python / JS</text>
+  <text x="16" y="90" xml:space="preserve">OS:       Windows</text>
+  <text x="16" y="107" xml:space="preserve">Shell:    PowerShell</text>
+  <text x="16" y="124" xml:space="preserve">Editor:   VS Code</text>
+  <text x="16" y="141" xml:space="preserve">Building: OmniArchive / dangerous assault</text>
+  <text x="16" y="158" xml:space="preserve">Hobbies:  sleeping, music, gaming</text>
+  <text x="16" y="175" xml:space="preserve">Goal:     Learn something every day</text>
+  <text x="16" y="209" xml:space="preserve">contacts</text>
+  <text x="16" y="226" xml:space="preserve">------------------------------------</text>
+  <text x="16" y="243" xml:space="preserve">GitHub:   github.com/miilxxwizi</text>
+  <text x="16" y="260" xml:space="preserve">Telegram: @miilxxwizizzzz</text>
+  <text x="16" y="277" xml:space="preserve">Email:    nurm.qp47@gmail.com</text>
+</svg>
