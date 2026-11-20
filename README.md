@@ -23,5 +23,8 @@
 <p align="center">
   <a href="https://t.me/miilxxwizizzzz"><img src="assets/telegram.svg" height="34" alt="Telegram" /></a>
   <a href="https://discord.com/users/917454922734248006"><img src="assets/discord.svg" height="34" alt="Discord" /></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/miilxxwizi?tab=repositories">Explore my repositories →</a>
 </p>
