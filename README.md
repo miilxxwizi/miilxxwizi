@@ -20,7 +20,7 @@ I'm into visual design, 3D modeling, and game development. I like bringing ideas
 
 Right now I'm mostly focused on 3D environments, UI/UX concepts, and experimenting with game mechanics. I enjoy switching between modeling, visual editing, and engine work depending on what inspires me at the moment.
 
-When I'm away from my workspace, I'm usually listening to music or playing games. If you want to talk design, 3D, or projects, you can reach me on Telegram.
+When I'm away from my workspace, I'm usually listening to music or playing games.
 
 ### I aslo have ex:
 
